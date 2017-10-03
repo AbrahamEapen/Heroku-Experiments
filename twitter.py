@@ -28,4 +28,4 @@ def deployment(counter):
 while(True):
     deployment(counter)
     counter += 1
-    time.sleep(5)
+    time.sleep(60)
